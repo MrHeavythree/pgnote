@@ -48,3 +48,7 @@ This is a hope to show others their knowledge, but also hope others to show thei
 It was this hope that drove me to write the following sentence:
 
 **Here are EVERYONE'S programming notes.**
+
+## License
+
+Under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
