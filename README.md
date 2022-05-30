@@ -24,7 +24,7 @@ This project is everyone's programming notes,so if you want to contribute it,you
 
 If you confirm that the content you add complies with the above rules, you must pay attention to your *format*.
 
-- All document contents need to use Markdown or LaTeX.
+- All document contents need to use Markdown, sometimes can use PDF.
 - All document contents must be added in the docs folder, and all samples must be added in the demo folder.
 - The format of a document should be as follows:
 
