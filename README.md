@@ -28,12 +28,12 @@ If you confirm that the content you add complies with the above rules, you must 
 - All document contents must be added in the docs folder, and all samples must be added in the demo folder.
 - The format of a document should be as follows:
 
-```
+`
 
     # How to build an environment similar to vscode on iPad?
     > Keyword: iPad vscode
     ......(anything)
-```
+`
 
 For details, see docs/example1.md or docs/example-2.md.
 
