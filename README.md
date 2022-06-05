@@ -35,7 +35,7 @@ If you confirm that the content you add complies with the above rules, you must 
     ......(anything)
 `
 
-For details, see docs/example1.md or docs/example-2.md.
+For details, see docs/ipad's vscode.md or docs/manim.md.
 
 PS:All pictures or other materials should be placed in the corresponding aseets folder.
 

@@ -6,9 +6,7 @@
 
 In programming, making animation is important.Let's take a look at the following animation:
 
-<video width="320" height="240" controls>
-  <source src="ExampleScene.mp4" type="video/mp4">
-</video>
+[ExampleScene](aseets%5CExampleScene.mp4)
 
 Is that cool?
 
@@ -27,12 +25,11 @@ Note: you need to install the following dependencies:
 1. FFmpeg
 2. LaTeX(optional)
 3. dvisvgm(optional)
-4. OpenGL
 
 If you have completed the above operations, you can try the following operations:
 
 ```powershell
-    manimgl example_scenes.py OpeningManimExample
+    manimgl example_scenes.py OpeningManimExampl>
 ```
 
 This should pop up a window playing a simple scene.
