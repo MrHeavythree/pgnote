@@ -6,7 +6,7 @@
 
 In programming, making animation is important.Let's take a look at the following animation:
 
-[ExampleScene](aseets%5CExampleScene.mp4)
+![ExampleScene](aseets/ExampleScene.gif)
 
 Is that cool?
 
